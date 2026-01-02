@@ -21,6 +21,32 @@ OpusKeep is a mobile-first reading platform that combines book management, perso
 - **Platform**: iOS & Android with Web SaaS support
 - **Design**: Custom UI inspired by modern, sleek applications
 
+## Project Structure
+
+```
+OpusKeep/
+├── apps/
+│   ├── mobile/          # React Native mobile app (iOS & Android)
+│   └── web/             # Web SaaS application
+├── packages/
+│   ├── ui/              # Shared UI components library
+│   ├── api-client/      # API client for consuming backend services
+│   └── types/           # Shared TypeScript types and interfaces
+├── backend/
+│   ├── routes/          # API route handlers
+│   ├── models/          # Database models and schemas
+│   ├── middleware/      # Express/server middleware
+│   ├── services/        # Business logic and service layer
+│   └── utils/           # Utility functions and helpers
+├── docs/
+│   ├── architecture/    # System architecture and design decisions
+│   ├── design/          # UI/UX design specs and guidelines
+│   └── features/        # Feature specifications and requirements
+├── scripts/             # Development and deployment automation scripts
+└── README.md           # Project documentation
+
+```
+
 ## Coming Soon
 
 We're actively developing core features. Check back for updates!
