@@ -60,4 +60,3 @@
 - Setup an educational version - no AI Summaries, but includes discussion boards for classroom use.
     - Basically a book club but for the classroom (helps track reading progress of each student)
         - Teacher can see the students’ progress
----
