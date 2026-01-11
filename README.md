@@ -52,5 +52,3 @@ OpusKeep/
 We're actively developing core features. Check back for updates!
 
 ---
-
-For more details, see our [Competitor Analysis](./docs/competitors.md) and [Technical Notes](./docs/ai-notes.md).
